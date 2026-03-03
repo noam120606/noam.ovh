@@ -12,4 +12,7 @@ export default defineConfig({
     }),
     tailwindcss(),
   ],
+  server: {
+    allowedHosts: ['localhost', 'noam.ovh', 'www.noam.ovh', '*.netlify.app'],
+  },
 })
