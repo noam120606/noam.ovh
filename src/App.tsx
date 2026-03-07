@@ -41,6 +41,14 @@ function App() {
               >
                 Me contacter
               </a>
+              <a
+                href="https://status.noam.ovh"
+                target="_blank"
+                rel="noreferrer"
+                className="rounded-xl border border-white/35 bg-white/20 px-4 py-3 text-sm font-medium transition hover:bg-white/30"
+              >
+                Status de mes services
+              </a>
             </div>
 
             <div className="mt-8 flex items-center gap-3">
