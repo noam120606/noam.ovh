@@ -47,7 +47,7 @@ function App() {
                 rel="noreferrer"
                 className="rounded-xl border border-white/35 bg-white/20 px-4 py-3 text-sm font-medium transition hover:bg-white/30"
               >
-                Status de mes services
+                Statut de mes services
               </a>
             </div>
 
