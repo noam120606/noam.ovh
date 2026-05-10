@@ -26,7 +26,7 @@ function App() {
 
             <div className="mt-8 grid w-full gap-3">
               <a
-                href="https://noamroger.fr"
+                href="https://www.noamroger.fr"
                 target="_blank"
                 rel="noreferrer"
                 className="rounded-xl border border-white/35 bg-white/20 px-4 py-3 text-sm font-medium transition hover:bg-white/30"
