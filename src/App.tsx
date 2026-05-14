@@ -71,7 +71,7 @@ function App() {
                 <BiLogoTwitter size={22} />
               </a>
               <a
-                href="https://www.instagram.com/noam120606"
+                href="https://www.instagram.com/noam_rgr"
                 target="_blank"
                 rel="noreferrer"
                 className="rounded-full border border-white/35 bg-white/15 p-2.5 transition hover:bg-white/30"
