@@ -53,7 +53,7 @@ function App() {
 
             <div className="mt-8 flex items-center gap-3">
               <a
-                href="https://github.com/noam120606"
+                href="https://github.com/noamroger"
                 target="_blank"
                 rel="noreferrer"
                 className="rounded-full border border-white/35 bg-white/15 p-2.5 transition hover:bg-white/30"
